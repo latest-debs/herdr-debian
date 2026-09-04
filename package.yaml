@@ -3,7 +3,7 @@
 package_name: herdr
 github_repo: herdrdev/herdr
 license: Apache-2.0
-artifact_format: binary
+artifact_format: raw
 description: "Terminal workspace manager for coding agents"
 
 architectures:
