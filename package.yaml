@@ -1,0 +1,13 @@
+# Package definition for herdr
+
+package_name: herdr
+github_repo: herdrdev/herdr
+license: Apache-2.0
+artifact_format: binary
+description: "Terminal workspace manager for coding agents"
+
+architectures:
+  amd64:
+    release_pattern: "herdr-linux-x86_64"
+  arm64:
+    release_pattern: "herdr-linux-aarch64"
